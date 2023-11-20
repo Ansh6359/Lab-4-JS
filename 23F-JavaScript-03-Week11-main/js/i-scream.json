@@ -46,7 +46,7 @@
                 "Vanilla Extract",
                 "White cream"
             ],
-            "image": "https://ansh6359.github.io/AEEKf/ice-cream-xtra1.svg"
+    const url = "https://ansh6359.github.io/Lab-4-JS/23F-JavaScript-03-Week11-main/img/ice-cream-xtra1.svg";
         },
         {
             "name": "Chocochips",
