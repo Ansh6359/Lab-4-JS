@@ -8,7 +8,8 @@ async function populate() {
     // STEP 4a: Create i-scream.json file with companyName, headOffice, established, active, topFlavors(name, calories, type, ingredients, image) */
     // STEP 4b: Store the URL of a JSON file in a variable */
     
-    const url = "https://ansh6359.github.io/AEEKf/i-scream.json";
+    const url = "https://ansh6359.github.io/Lab-4-JS/23F-JavaScript-03-Week11-main/js/i-scream.json";
+    
 
     // STEP 5: Use the new URL to create a new request object
     const request = new Request(url);
